@@ -20,5 +20,5 @@ deploy:
       tags: true
       repo: plugin
     username: charan
-    password: 12jan1998
+    password: *****
     build_dir: build 
