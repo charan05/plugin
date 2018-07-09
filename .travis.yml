@@ -19,6 +19,6 @@ deploy:
       php: 5.5.9
       tags: true
       repo: plugin
-    username: charan
-    password: *****
+    username: Charan
+    password: Junkfoodnight100@
     build_dir: build 
