@@ -17,7 +17,6 @@ deploy:
   - provider: wordpress-plugin
     on:
       php: 5.5.9
-      tags: true
       repo: plugin
     username: Charan
     password: Junkfoodnight100@
