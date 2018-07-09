@@ -11,7 +11,7 @@ script:
   before_deploy:
   - mkdir build
   - cp README.md build
-  - cp plugin.php buld
+  - cp plugin.php build
  
 deploy:
   - provider: wordpress-plugin
