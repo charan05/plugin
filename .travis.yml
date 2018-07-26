@@ -18,6 +18,6 @@ deploy:
     on:
       php: 5.5.9
       repo: plugin
-    username: Charan
-    password: Junkfoodnight100@
+    username: ch12jan1998@gmail.com
+    password: MyPassword
     build_dir: build 
